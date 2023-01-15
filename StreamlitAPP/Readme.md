@@ -1,4 +1,4 @@
-This folder is for apps hosted on streamlit app.
+This folder is for apps hosted on @streamlit app.
  
  Stock Price Analyzer App currently running on  -https://ajaymauryabbn-streamlit-stock-price-analyser-streamlitco-4pwxzd.streamlit.app/
  
